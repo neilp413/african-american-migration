@@ -1,0 +1,101 @@
+body {
+	margin:0 auto;
+	width: 100%;
+	height: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 50px;
+	font-family: 'Lato', sans-serif;
+	font-size: 155%;
+}
+
+p{
+	display: block;
+}
+
+.content{
+	padding-bottom: 58px;
+	margin: 0 auto;
+}
+html {
+	width: 100%;
+	height: 100%;
+	padding-bottom: 100%;
+}
+
+.anchor::before {
+	content: "";
+	display: block;
+	height: 55px;
+	margin: -55px 0 0;
+}
+
+h1 {
+	font-size: 200%;
+	font-weight: 900;
+	color: #3F413E;
+}
+
+h2 {
+	font-size: 150%;
+	font-weight: 600;
+	color: #3F673E;
+}
+
+#thesis {
+	padding: 10px;
+	padding-top: 35px;
+	padding-bottom: 35px; 
+	align-content: center;
+}
+
+.thesis{
+	font-weight: 600;
+	font-size: 125%;
+	color: #3F673E;
+}
+
+/*
+.anchor.fixleft {
+	width: 40%;
+	float:left;
+
+}
+
+.anchor.fixright{
+	width: 40%;
+	float:
+}
+*/
+
+img {
+	width: %;
+	height: 25%;
+	display: block;
+}
+
+nav {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default {
+	background-color: #E7E7E7;
+	border-color: #E7E7E7;
+	padding-right: 25px;
+}
+
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	font-weight: 600;
+	color: #3F413E;
+}
+
+.navbar-default .navbar-text {
+	color: #7D7D7D;
+}
+
+@media (max-width: 767px) {
+	
+}
